@@ -4,4 +4,4 @@ services:
    image: eclizator/lesson2:latest
    restart: always
    ports:
-    - "82:8282"
+    - "8080:80"
